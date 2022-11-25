@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+## Instrucciones
 <p>Hola, para probar el sistema debe por favor copiar el ".env.example" a ".env" crear la base de datos y correr "php artisan migrate" las credenciales del usuario administrador son usuario: "administrador@mail.com" contraseña: "admin"  y para los clientes primer cliente-> {usuario: "cliente@mail.com" contraseña: "cliente"} para el segundo cliente-> { usuario:"cliente2@mail.com" contraseña:"cliente" cualquier duda no dude en contactarme al correo: "luislugodeveloper2601@gmail.com" }</p>
